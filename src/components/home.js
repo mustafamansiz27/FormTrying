@@ -34,6 +34,7 @@ const Home = () => {
           </Card>
         ))}
       </div>
+      
     </Container>
   );
 };
